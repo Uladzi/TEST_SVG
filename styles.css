@@ -1,0 +1,32 @@
+div {
+    margin-top: 5%;
+    left: 20%;
+    position: relative;
+}
+
+svg {
+    width: 100%;
+}
+
+path:hover {
+    fill: #ffe1e1;
+    stroke: white;
+}
+
+.face {
+    fill: #ffffee;
+}
+
+.face {
+    fill: #ffffee;
+}
+
+.balloon {
+    fill: #ff8c84;
+}
+
+.balloon:hover {
+    fill: greenyellow;
+    transform: scale(1.3);
+    stroke: green
+}
